@@ -1,0 +1,16 @@
+# Исключаем виртуальное окружение
+venv/
+
+# Исключаем временные папки PyInstaller
+build/
+dist/
+*.spec
+
+# Кеши Python
+__pycache__/
+*.pyc
+
+# Временные файлы и IDE
+*.log
+.vscode/
+.idea/
